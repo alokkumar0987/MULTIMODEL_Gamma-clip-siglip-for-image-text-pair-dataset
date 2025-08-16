@@ -2,7 +2,7 @@
 
 MODEL_PATH="./paligemma-3b-pt-224"
 PROMPT="this gate is "
-IMAGE_FILE_PATH="test_images/india-gate-1.jpg"
+IMAGE_FILE_PATH="./india-gate-1.jpg"
 MAX_TOKENS_TO_GENERATE=100
 TEMPERATURE=0.8
 TOP_P=0.9
