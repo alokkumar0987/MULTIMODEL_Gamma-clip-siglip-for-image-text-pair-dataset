@@ -80,5 +80,11 @@ Language Model → Generates descriptive responses.
 ![WhatsApp Image 2025-08-16 at 19 19 23_f3f9b1be](https://github.com/user-attachments/assets/c07eeee8-8158-4206-a79c-f3758a4ad645)
 
 
+## References: Research paper PaliGemma,CLIP onenapi vision model, Siglip vision model 
+
+- [2103.00020v1](https://arxiv.org/abs/2103.00020)
+- [2303.15343v4](https://arxiv.org/abs/2303.15343) 
+- [2407.07726v2](https://arxiv.org/abs/2407.07726)
+
 
 
