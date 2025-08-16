@@ -77,7 +77,8 @@ Language Model → Generates descriptive responses.
 
 
 # OVERVIEW OF ARCHITECTURE OF MULTI-MODEL
-MULTI_MODEL_VISION_TEXT.pdf
+![WhatsApp Image 2025-08-16 at 19 19 23_f3f9b1be](https://github.com/user-attachments/assets/c07eeee8-8158-4206-a79c-f3758a4ad645)
+
 
 
 
